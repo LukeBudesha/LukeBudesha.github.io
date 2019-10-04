@@ -1,10 +1,3 @@
-float size=2;
-int maximum=100;
-float xdirection = -0.55;
-float ydirection = -0.55;
-int minIterations=1;
-int newMinIts=1;
-
 void setup(){
   
   size(640,640);
@@ -12,6 +5,13 @@ void setup(){
   loadPixels();
     
 }
+
+float size=2;
+int maximum=100;
+float xdirection = -0.55;
+float ydirection = -0.55;
+int minIterations=1;
+int newMinIts=1;
 
 void draw(){
  
