@@ -1,4 +1,12 @@
 h1 {
-  color: red;
+  color: white;
   text-align: center;
+}
+
+p, ol, h2 {
+	color: white;
+}
+
+body {
+  background-color: rgb(20,20,20);
 }
